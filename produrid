@@ -1,0 +1,9 @@
+driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+url=jdbc:sqlserver://127.0.0.1:1433;DatabaseName=JdbcConnection
+username=sa
+password=123456
+initialSize=5
+maxActive=10
+maxWait=3000
+maxIdle=8
+minIdle=3
